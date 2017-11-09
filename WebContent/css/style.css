@@ -1,0 +1,87 @@
+html {
+	padding: 10px;
+}
+
+.obrigatorio {
+	color: red !important;
+}
+
+body {
+	margin: 10px;
+}
+
+dt-top-logo {
+	margin-right: 10px;
+}
+
+#LJ {
+	margin-left: 5px;
+}
+
+#LP {
+	margin-left: 50px;
+}
+
+#cmbEstado {
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+#cmbCidade {
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+#txSexo {
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+#txtNome {
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+#txtCPF {
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+#txtEndereco{
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+#txtRG {
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+/*h4 {
+	float: right;
+	color: black;
+	font-family: Arial;
+	font-weight: bolder;
+	padding-right: 10px;
+}*/
+
+#cs {
+	margin-left: 5px;
+}
+
+#cn {
+	margin-left: 50px;
+}
+
+h2 {
+	float: right;
+	color: black;
+	font-family: Arial;
+	font-weight: bolder;
+	padding-right: 10px;
+}
+hr{
+	border-color:blue;
+
+}
+}
